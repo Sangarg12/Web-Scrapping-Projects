@@ -2,8 +2,7 @@ In this project we would scrap all the top 1000 IMDB rated movies resides across
 
 
 <h1>Dependencies <h1/>
-Actually to follow this module you only need to install beautifulsoup4 with pip install beautifulsoup4 and you are good to go. But here some libraries that needed to be installed first that I use at this module :
-
-beautifulSoup4
+<pr>Actually to follow this module you only need to install beautifulsoup4 with pip install beautifulsoup4 and you are good to go. But here some libraries that needed to be installed first that I use at this module : <pr/>
+<li>beautifulSoup4<li/>
 pandas
-matplotlibs
+requests
