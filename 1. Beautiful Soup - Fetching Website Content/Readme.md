@@ -1,5 +1,5 @@
 # Webscrapping-with-BeautifulSoup
-At this module we will learn on how do simple web scrapping using beautiful soup. Web scrapping is one of a method that we can use to colleting the data from internet. At this particular module, we will try to scrap and clean IMDB Top Rated 1000 Movies from ( https://www.imdb.com/search/title/?groups=top_1000&sort=user_rating,desc&count=100&start=1&ref_=adv_prv), it's one of the offical site to check top 1000 top IMDB rated movies. To do this we will only use a couple default library from python and BeautifulSoup.
+At this module we will learn on how do simple web scrapping using beautiful soup. Web scrapping is one of a method that we can use to colleting the data from internet.
 
 ## Dependencies
 <pr>Actually to follow this module you only need to install beautifulsoup4 with pip install beautifulsoup4 and you are good to go. But here some libraries that needed to be installed first that I use at this module : <pr/>
